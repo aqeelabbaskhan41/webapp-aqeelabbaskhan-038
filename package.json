@@ -1,0 +1,21 @@
+{
+  "name": "cloud-mid-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqeelabbaskhan41/webapp-aqeelabbaskhan-038.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aqeelabbaskhan41/webapp-aqeelabbaskhan-038/issues"
+  },
+  "homepage": "https://github.com/aqeelabbaskhan41/webapp-aqeelabbaskhan-038#readme"
+}
